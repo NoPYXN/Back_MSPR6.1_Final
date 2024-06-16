@@ -1,4 +1,4 @@
-# Utilisez une image Node.js 16 comme image de base
+# Utilisez une image Node.js 20 comme image de base
 FROM node:20.11.1
 # Définir le répertoire de travail
 WORKDIR /app
